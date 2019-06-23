@@ -2,6 +2,10 @@ div.cent {
   text-align: center;
 }
 
+h1 {
+  display:inline-block; 
+}
+
 .rainbow-text {
   background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
   color: transparent;
