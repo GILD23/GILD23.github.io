@@ -18,6 +18,7 @@ h1 {
 
 .btn {
   position: relative;
+  bottom: 0;
 }
 
 .wrapper { 
